@@ -3,6 +3,7 @@ import numpy as np
 
 
 print("test pull")
+print("test fetch")
 # date = pd.date_range('20170301', periods=8)
 # df = pd.DataFrame(np.random.randn(8, 5), index=date, columns=['A', 'B', 'C', 'D', 'E'])
 # print(df)
