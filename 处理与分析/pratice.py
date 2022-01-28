@@ -4,6 +4,7 @@ import numpy as np
 
 print("test push")
 print("test fetch")
+print("test fetch1")
 
 print("local")
 # date = pd.date_range('20170301', periods=8)
