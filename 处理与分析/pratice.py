@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 
-print("test pull")
+print("test")
 print("test fetch")
 
 print("local")
